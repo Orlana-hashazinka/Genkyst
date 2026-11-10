@@ -6,7 +6,7 @@ Ce dépôt regroupe les notebooks développés dans le cadre du projet de modél
 
 Le projet poursuit deux objectifs complémentaires :
 
-* **analyse l'impact du traitement par Tolvaptan** sur la progression de la polykystose rénale autosomique dominante (PKRAD) ;
+* **analyser l'impact du traitement par Tolvaptan** sur la progression de la polykystose rénale autosomique dominante (PKRAD) ;
 * **développer et évaluer des modèles d'analyse de survie** afin de prédire le temps restant avant l'insuffisance rénale terminale (IRT) à partir de données cliniques, génétiques et longitudinales.
 
 Les données utilisées proviennent de la cohorte **Genkyst** et ne sont pas distribuées.
